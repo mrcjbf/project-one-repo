@@ -26,6 +26,7 @@ Is Big Tech good or bad for your city?
 
 - **--** Zillow  (API)
 - **--** Census (API)
+-**--** Bureau of Labor Statistics (CSV Files)
 
 **Rough Breakdown of Task**
 
